@@ -38,7 +38,7 @@ class LoevgaardConsignorShipmentServerExtensionTest extends TestCase
      */
     protected function getEmptyConfig()
     {
-        $yaml = <<<'EOF'
+        $yaml = <<<EOF
 actor: actor
 key: key
 EOF;

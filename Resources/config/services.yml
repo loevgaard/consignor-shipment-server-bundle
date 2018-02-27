@@ -1,0 +1,6 @@
+services:
+    loevgaard_consignor_shipment_server.client:
+        class: Loevgaard\Consignor\ShipmentServer\Client\Client
+        arguments:
+            - "%loevgaard_consignor_shipment_server.actor%"
+            - "%loevgaard_consignor_shipment_server.key%"

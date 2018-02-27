@@ -49,7 +49,7 @@ class AppKernel extends Kernel
 }
 ```
 
-### Step 4: Configure the bundle
+### Step 3: Configure the bundle
 ```yaml
 # app/config/config.yml
 

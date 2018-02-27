@@ -9,10 +9,9 @@
             "email": "joachim@loevgaard.dk"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": "^7.1",
-        "loevgaard/consignor-shipment-server-php-sdk": "^1.0@dev",
+        "loevgaard/consignor-shipment-server-php-sdk": "^1.0",
         "symfony/framework-bundle": "^3.3||^4.0",
         "symfony/yaml": "^3.0||^4.0"
     },
